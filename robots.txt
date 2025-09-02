@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aromameadow.com/sitemap.xml
